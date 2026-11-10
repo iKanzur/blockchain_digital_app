@@ -4,7 +4,7 @@
 
 A local university demonstration using Solidity, Hardhat 3, React, Vite, Ethers v6 and MetaMask. KYC-approved wallets and the registry admin can create campaigns. Any wallet can contribute. The creator withdraws after a campaign reaches its goal.
 
-## Requirements
+## Requirements for project
 
 - Node.js 22 or later and npm
 - MetaMask browser extension
