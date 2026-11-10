@@ -1,5 +1,5 @@
 # Screenshot checklist
-KANZ
+
 These are placeholders. Capture real screenshots during the MetaMask demonstration; none are supplied or claimed here.
 
 | Filename | Caption to capture |
