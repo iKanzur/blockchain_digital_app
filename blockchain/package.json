@@ -1,0 +1,1 @@
+{"name":"kanzur-crowdfunding-blockchain","private":true,"type":"module","scripts":{"compile":"hardhat compile","test":"hardhat test","node":"hardhat node","deploy":"hardhat run scripts/deploy.js --network localhost"},"devDependencies":{"hardhat":"^3.0.14","@nomicfoundation/hardhat-toolbox-mocha-ethers":"^3.0.0"}}
